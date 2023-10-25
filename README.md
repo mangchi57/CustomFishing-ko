@@ -6,8 +6,6 @@
 
 디스코드 : 짱구#walletfairy
 
-디스코드 :  https://discord.gg/VxqSKVFKnZ 
-
 깃헙 : https://github.com/mangchi57?tab=repositories
 
 # 해당플러그인은 유료플러그인이므로 따로 구매하시고 사용하셔야합니다.
